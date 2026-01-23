@@ -1,0 +1,17 @@
+Parameter,Value,Type,Description
+sigma,0.5,numeric,Average enzyme saturation factor
+Ptot,0.5,numeric,Total protein content in the cell [g protein/gDw]
+f,0.5,numeric,Fraction of enzymes in the model [g enzyme/g protein]
+gR_exp,0.7,numeric,Growth rate the model should be able to reach [1/h]
+org_name,escherichia coli,string,Organism scientific name
+kegg.ID,eco,string,KEGG organism identifier
+kegg.geneID,kegg,string,KEGG gene identifier type
+uniprot.type,proteome,string,UniProt query type (proteome or taxonomy)
+uniprot.ID,UP000000318,string,UniProt identifier
+uniprot.geneIDfield,gene_oln,string,UniProt gene ID field
+uniprot.reviewed,TRUE,string,Whether to use only reviewed UniProt data
+c_source,EX_glc__D_e,string,Reaction ID for carbon source exchange
+bioRxn,BIOMASS_Ec_iAF1260_core_59p81M,string,Reaction ID for biomass pseudoreaction
+enzyme_comp,cytosol,string,Compartment for protein pseudometabolites
+complex.taxonomicID,83333,string,Taxonomic identifier for Complex Portal
+convGEM,data/iAF1260.xml,updatedModel.xml,Path to conventional GEM file

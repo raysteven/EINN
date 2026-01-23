@@ -1,0 +1,378 @@
+Enzyme Name,EC,Compound Name,Km,Concentration
+"(2,3-dihydroxybenzoyl)adenylate synthase",2.7.7.58,"2,3-dihydroxybenzoate",2.70E-06,1.38E-04
+acetyl-CoA C-acyltransferase,2.3.1.16,acetoacetyl-coa,3.10E-05,2.18E-05
+3-hydroxyacyl-CoA dehydrogenase,1.1.1.35,acetotacetyl-coa,6.60E-05,2.18E-05
+acetate kinase,2.7.2.1,acetyl phosphate,8.94E-04,1.07E-03
+acetaldehyde dehydrogenase,1.2.1.10,acetyl-coa,9.54E-06,6.06E-04
+glucosamine-1-phosphate N-acetyltransferase,2.3.1.157,acetyl-coa,6.00E-04,6.06E-04
+glycine C-acetyltransferase,2.3.1.29,acetyl-coa,5.90E-05,6.06E-04
+serine O-acetyltransferase,2.3.1.30,acetyl-coa,5.60E-04,6.06E-04
+formate C-acetyltransferase,2.3.1.54,acetyl-coa,5.10E-05,6.06E-04
+acetyl-CoA acetyltransferase,2.3.1.9,acetyl-coa,4.70E-04,6.06E-04
+citrate (Si)-synthase,2.3.3.1,acetyl-coa,2.16E-04,6.06E-04
+malate synthase,2.3.3.9,acetyl-coa,9.00E-06,6.06E-04
+acetylornithine deacetylase,3.5.1.16,acetylornithine,1.46E-03,4.33E-05
+adenine phosphoribosyltransferase,2.4.2.7,adenine,5.10E-06,1.47E-06
+adenine deaminase,3.5.4.2,adenine,8.00E-04,1.47E-06
+purine-nucleoside phosphorylase,2.4.2.1,adenosine,2.35E-05,5.55E-04
+adenosine deaminase,3.5.4.4,adenosine,7.50E-05,5.55E-04
+Phosphoenolpyruvate carboxykinase,4.1.1.49,ADP,5.00E-05,5.55E-04
+ADP-sugar diphosphatase,3.6.1.21,ADP-glucose,1.67E-04,4.27E-06
+8-amino-7-oxononanoate synthase,2.3.1.47,alanine,6.71E-04,2.55E-03
+alanine racemase,5.1.1.1,alanine,2.90E-04,2.55E-03
+alanine-tRNA ligase,6.1.1.7,alanine,3.40E-04,2.55E-03
+UDP-N-acetylmuramate-L-alanine ligase,6.3.2.8,alanine,4.58E-05,2.55E-03
+adenylate kinase,2.7.4.3,AMP,3.80E-05,2.81E-04
+5'-nucleotidase,3.1.3.5,AMP,1.54E-04,2.81E-04
+AMP nucleosidase,3.2.2.4,AMP,1.34E-03,2.81E-04
+adenylyl-sulfate kinase,2.7.1.25,adenosine-phosphosulfate,3.54E-07,6.63E-06
+arginine decarboxylase,4.1.1.19,arginine,6.50E-04,5.69E-04
+arginine-tRNA ligase,6.1.1.19,arginine,4.96E-05,5.69E-04
+asparaginase,3.5.1.1,asparagine,1.29E-05,5.11E-04
+asparagine-tRNA ligase,6.1.1.22,asparagine,2.33E-05,5.11E-04
+L-aspartate oxidase,1.4.3.16,aspartate,1.43E-03,4.23E-03
+aspartate carbamoyltransferase,2.1.3.2,aspartate,9.90E-03,4.23E-03
+aspartate transaminase,2.6.1.1,aspartate,2.22E-03,4.23E-03
+aromatic-amino-acid transaminase,2.6.1.57,aspartate,4.56E-03,4.23E-03
+aspartate kinase,2.7.2.4,aspartate,9.71E-04,4.23E-03
+aspartate ammonia-lyase,4.3.1.1,aspartate,1.59E-03,4.23E-03
+aspartate-tRNA ligase,6.1.1.12,aspartate,5.48E-05,4.23E-03
+"phosphoribosylaminoimidazolesuccinocarboxamide
+synthase",6.3.2.6,aspartate,3.60E-05,4.23E-03
+adenylosuccinate synthase,6.3.4.4,aspartate,1.70E-04,4.23E-03
+asparagine synthase (glutamine-hydrolysing),6.3.5.4,aspartate,6.70E-04,4.23E-03
+nicotinate phosphoribosyltransferase,2.4.2.11,ATP,4.00E-04,9.63E-03
+methionine adenosyltransferase,2.5.1.6,ATP,7.78E-05,9.63E-03
+diacylglycerol kinase,2.7.1.107,ATP,1.91E-03,9.63E-03
+6-phosphofructokinase,2.7.1.11,ATP,1.18E-04,9.63E-03
+gluconokinase,2.7.1.12,ATP,7.44E-05,9.63E-03
+ribulokinase,2.7.1.16,ATP,5.92E-05,9.63E-03
+glucokinase,2.7.1.2,ATP,3.61E-04,9.63E-03
+NAD+ kinase,2.7.1.23,ATP,7.58E-04,9.63E-03
+adenylyl-sulfate kinase,2.7.1.25,ATP,1.00E-05,9.63E-03
+homoserine kinase,2.7.1.39,ATP,4.06E-04,9.63E-03
+hydroxymethylpyrimidine kinase,2.7.1.49,ATP,1.43E-04,9.63E-03
+N-acetylglucosamine kinase,2.7.1.59,ATP,1.12E-05,9.63E-03
+galactokinase,2.7.1.6,ATP,2.37E-03,9.63E-03
+shikimate kinase,2.7.1.71,ATP,1.60E-04,9.63E-03
+inosine kinase,2.7.1.73,ATP,6.02E-04,9.63E-03
+acetate kinase,2.7.2.1,ATP,2.57E-04,9.63E-03
+glutamate 5-kinase,2.7.2.11,ATP,4.47E-04,9.63E-03
+aspartate kinase,2.7.2.4,ATP,1.60E-03,9.63E-03
+acetylglutamate kinase,2.7.2.8,ATP,5.39E-04,9.63E-03
+T2-induced deoxynucleotide kinase,2.7.4.12,ATP,1.01E-03,9.63E-03
+cytidylate kinase,2.7.4.14,ATP,3.80E-05,9.63E-03
+thiamine-phosphate kinase,2.7.4.16,ATP,2.70E-04,9.63E-03
+adenylate kinase,2.7.4.3,ATP,4.80E-05,9.63E-03
+phosphomethylpyrimidine kinase,2.7.4.7,ATP,1.93E-04,9.63E-03
+dTMP kinase,2.7.4.9,ATP,2.19E-04,9.63E-03
+ribose-phosphate diphosphokinase,2.7.6.1,ATP,2.30E-05,9.63E-03
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,2.7.6.3,ATP,1.56E-05,9.63E-03
+nicotinamide-nucleotide adenylyltransferase,2.7.7.1,ATP,5.00E-04,9.63E-03
+nicotinate-nucleotide adenylyltransferase,2.7.7.18,ATP,5.00E-04,9.63E-03
+glucose-1-phosphate adenylyltransferase,2.7.7.27,ATP,7.68E-04,9.63E-03
+"(2,3-dihydroxybenzoyl)adenylate synthase",2.7.7.58,ATP,1.12E-03,9.63E-03
+"pyruvate, water dikinase",2.7.9.2,ATP,2.80E-05,9.63E-03
+phosphoenolpyruvate carboxykinase,4.1.1.49,ATP,6.00E-05,9.63E-03
+adenylate cyclase,4.6.1.1,ATP,4.50E-04,9.63E-03
+tyrosine-tRNA ligase,6.1.1.1,ATP,5.00E-05,9.63E-03
+methionine-tRNA ligase,6.1.1.10,ATP,1.21E-03,9.63E-03
+serine-tRNA ligase,6.1.1.11,ATP,6.80E-08,9.63E-03
+aspartate-tRNA ligase,6.1.1.12,ATP,6.71E-05,9.63E-03
+glycine-tRNA ligase,6.1.1.14,ATP,2.87E-05,9.63E-03
+proline-tRNA ligase,6.1.1.15,ATP,6.00E-04,9.63E-03
+cysteine-tRNA ligase,6.1.1.16,ATP,2.91E-04,9.63E-03
+glutamate-tRNA ligase,6.1.1.17,ATP,1.64E-04,9.63E-03
+glutamine-tRNA ligase,6.1.1.18,ATP,7.88E-05,9.63E-03
+arginine-tRNA ligase,6.1.1.19,ATP,1.18E-03,9.63E-03
+tryptophan-tRNA ligase,6.1.1.2,ATP,2.00E-04,9.63E-03
+phenylalanine-tRNA,6.1.1.20,ATP,9.00E-06,9.63E-03
+histidine-tRNA ligase,6.1.1.21,ATP,7.06E-04,9.63E-03
+asparagine-tRNA ligase,6.1.1.22,ATP,7.60E-05,9.63E-03
+threonine-tRNA ligase,6.1.1.3,ATP,2.67E-05,9.63E-03
+leucine-tRNA ligase,6.1.1.4,ATP,2.64E-04,9.63E-03
+isoleucine-tRNA ligase,6.1.1.5,ATP,4.73E-06,9.63E-03
+lysine-tRNA ligase,6.1.1.6,ATP,5.27E-05,9.63E-03
+alanine-tRNA ligase,6.1.1.7,ATP,8.30E-05,9.63E-03
+long-chain-fatty-acid-[acyl-carrier-protein] ligase,6.2.1.20,ATP,3.00E-04,9.63E-03
+O-succinylbenzoate-CoA ligase,6.2.1.26,ATP,7.35E-05,9.63E-03
+long-chain-fatty-acid-CoA ligase,6.2.1.3,ATP,3.42E-05,9.63E-03
+aspartate-ammonia ligase,6.3.1.1,ATP,2.70E-04,9.63E-03
+glutamate-ammonia ligase,6.3.1.2,ATP,2.00E-04,9.63E-03
+pantoate-beta-alanine ligase,6.3.2.1,ATP,9.54E-05,9.63E-03
+dihydrofolate synthase,6.3.2.12,ATP,6.90E-06,9.63E-03
+"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase",6.3.2.13,ATP,6.20E-04,9.63E-03
+tetrahydrofolate synthase,6.3.2.17,ATP,6.82E-05,9.63E-03
+glutamate-cysteine ligase,6.3.2.2,ATP,3.16E-05,9.63E-03
+glutathione synthase,6.3.2.3,ATP,9.28E-04,9.63E-03
+UDP-N-acetylmuramate-L-alanine ligase,6.3.2.8,ATP,1.39E-04,9.63E-03
+phosphoribosylformylglycinamidine cyclo-ligase,6.3.3.1,ATP,7.30E-05,9.63E-03
+dethiobiotin synthase,6.3.3.3,ATP,5.00E-06,9.63E-03
+GMP synthase,6.3.4.1,ATP,7.28E-04,9.63E-03
+biotin carboxylase,6.3.4.14,ATP,1.17E-04,9.63E-03
+GMP synthase (glutamine-hydrolysing),6.3.5.2,ATP,5.30E-04,9.63E-03
+asparagine synthase (glutamine-hydrolysing),6.3.5.4,ATP,1.80E-04,9.63E-03
+carbamoyl-phosphate synthase (glutamine-hydrolysing),6.3.5.5,ATP,7.01E-05,9.63E-03
+dihydroorotase,3.5.2.3,carbamoyl-aspartate,1.35E-03,5.90E-04
+aconitate hydratase,4.2.1.3,cis-aconitate,3.05E-05,1.61E-05
+citrate (pro-3S)-lyase,4.1.3.6,citrate,1.60E-04,2.19E-03
+aconitate hydratase,4.2.1.3,citrate,3.57E-03,2.19E-03
+cytidylate kinase,2.7.4.14,cmp,3.50E-05,3.60E-04
+acetaldehyde dehydrogenase,1.2.1.10,CoA,8.94E-06,1.37E-03
+homoserine O-succinyltransferase,2.3.1.46,CoA,6.40E-04,1.37E-03
+formate C-acetyltransferase,2.3.1.54,CoA,6.80E-06,1.37E-03
+O-succinylbenzoate-CoA ligase,6.2.1.26,CoA,3.60E-04,1.37E-03
+long-chain-fatty-acid-CoA ligase,6.2.1.3,CoA,3.98E-05,1.37E-03
+tRNA cytidylyltransferase,2.7.7.21,CTP,4.39E-05,2.73E-03
+3-deoxy-manno-octulosonate cytidylyltransferase,2.7.7.38,CTP,2.21E-04,2.73E-03
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,2.7.7.60,CTP,6.53E-05,2.73E-03
+phosphopantothenate-cysteine ligase,6.3.2.5,CTP,2.90E-04,2.73E-03
+cytidine deaminase,3.5.4.5,cytidine,2.42E-04,2.59E-06
+cytosine deaminase,3.5.4.1,cytosine,2.06E-04,1.41E-05
+5'-nucleotidase,3.1.3.5,damp,1.20E-05,8.84E-06
+purine-nucleoside phosphorylase,2.4.2.1,deoxyguanosine,4.40E-05,5.22E-07
+phosphopentomutase,5.4.2.7,deoxyribose 1-phosphate,1.57E-05,3.03E-04
+deoxyribose-phosphate aldolase,4.1.2.4,deoxyribose-5-phosphate,6.40E-04,3.03E-04
+glucosamine-1-phosphate N-acetyltransferase,2.3.1.157,glucosamine 1-phosphate,1.50E-04,1.15E-03
+T2-induced deoxynucleotide kinase,2.7.4.12,dGMP,8.20E-05,5.07E-05
+5'-nucleotidase,3.1.3.5,dGMP,4.70E-05,5.07E-05
+glycerol-3-phosphate dehydrogenase [NAD(P)+],1.1.1.94,DHAP,1.70E-04,3.74E-04
+methylglyoxal synthase,4.2.3.3,DHAP,4.13E-04,3.74E-04
+dihydroorotate oxidase,1.3.3.1,dihydroorotate,2.94E-05,1.19E-05
+dihydroorotase,3.5.2.3,dihydroorotate,7.80E-05,1.19E-05
+T2-induced deoxynucleotide kinase,2.7.4.12,dTTP,2.78E-04,4.62E-03
+glucose-1-phosphate thymidylyltransferase,2.7.7.24,dTTP,2.05E-05,4.62E-03
+malate oxidase,1.1.3.3,FAD,1.34E-06,1.73E-04
+FMN reductase,1.5.1.29,FAD,1.32E-06,1.73E-04
+fructose-bisphosphatase,3.1.3.11,FBP,6.00E-06,1.52E-02
+Fructose-bisphosphate aldolase,4.1.2.13,FBP,1.75E-04,1.52E-02
+FMN reductase,1.5.1.29,FMN,1.52E-06,5.37E-05
+transketolase,2.2.1.1,fructose 6-phosphate,1.10E-03,8.75E-03
+transaldolose,2.2.1.2,fructose 6-phosphate,1.11E-03,8.75E-03
+glutamine-fructose-6-phosphate transaminase (isomerizing),2.6.1.16,fructose 6-phosphate,2.00E-03,8.75E-03
+6-phosphofructokinase,2.7.1.11,fructose 6-phosphate,1.24E-04,8.75E-03
+6-phosphofructokinase,2.7.1.11,fructose 6-phosphate,1.24E-04,8.75E-03
+glucosamine-6-phosphate deaminase,3.5.99.6,fructose 6-phosphate,1.70E-03,8.75E-03
+mannose-6-phosphate isomerase,5.3.1.8,fructose 6-phosphate,1.50E-04,8.75E-03
+glucose-6-phosphate isomerase,5.3.1.9,fructose 6-phosphate,1.71E-04,8.75E-03
+succinate dehydrogenase (ubiquinone),1.3.5.1,fumarate,4.20E-04,1.15E-04
+fumarate hydratase,4.2.1.2,fumarate,4.94E-04,1.15E-04
+gluconokinase,2.7.1.12,gluconate,2.90E-05,4.16E-05
+phosphoglucosamine mutase,5.4.2.10,glucosamine-1-p,8.00E-05,1.15E-03
+glucosamine-6-phosphate deaminase,3.5.99.6,glucosamine-6-p,4.96E-04,1.15E-03
+phosphoglucosamine mutase,5.4.2.10,glucosamine-6-p,5.00E-05,1.15E-03
+UDP-glucose-hexose-1-phosphate uridylyltransferase,2.7.7.12,glucose-1-phosphate,2.65E-04,8.75E-03
+glucose-1-phosphate thymidylyltransferase,2.7.7.24,glucose-1-phosphate,3.40E-05,8.75E-03
+glucose-1-phosphate adenylyltransferase,2.7.7.27,glucose-1-phosphate,1.42E-04,8.75E-03
+UTP-glucose-1-phosphate uridylyltransferase,2.7.7.9,glucose-1-phosphate,1.00E-05,8.75E-03
+glucose-1-phosphatase,3.1.3.10,glucose-1-phosphate,4.42E-04,8.75E-03
+"alpha,alpha-trehalose-phosphate synthase",2.4.1.15,glucose-6-phosphate,5.27E-03,8.75E-03
+glucose-6-phosphate isomerase,5.3.1.9,glucose-6-phosphate,2.80E-04,8.75E-03
+glutamate dehydrogenase (NADP+),1.4.1.4,glutamate,1.87E-03,9.60E-02
+aspartate transaminase,2.6.1.1,glutamate,1.50E-02,9.60E-02
+succinyldiaminopimelate transaminase,2.6.1.17,glutamate,2.51E-03,9.60E-02
+aromatic-amino-acid transaminase,2.6.1.57,glutamate,2.80E-04,9.60E-02
+glutamate decarboxylase,4.1.1.15,glutamate,5.00E-04,9.60E-02
+glutamate-tRNA ligase,6.1.1.17,glutamate,1.59E-04,9.60E-02
+glutamate-ammonia ligase,6.3.1.2,glutamate,3.30E-03,9.60E-02
+dihydrofolate synthase,6.3.2.12,glutamate,3.90E-03,9.60E-02
+tetrahydrofolate synthase,6.3.2.17,glutamate,3.33E-04,9.60E-02
+glutamate-cysteine ligase,6.3.2.2,glutamate,7.25E-04,9.60E-02
+glutamate synthase (NADPH),1.4.1.13,glutamine,2.50E-04,3.81E-03
+amidophosphoribosyltransferase,2.4.2.14,glutamine,2.98E-03,3.81E-03
+glutamine-fructose-6-phosphate transaminase (isomerizing),2.6.1.16,glutamine,5.10E-04,3.81E-03
+glutaminase,3.5.1.2,glutamine,4.20E-04,3.81E-03
+anthranilate synthase,4.1.3.27,glutamine,3.60E-04,3.81E-03
+glutamine-tRNA ligase,6.1.1.18,glutamine,1.69E-04,3.81E-03
+GMP synthase,6.3.4.1,glutamine,1.00E-03,3.81E-03
+phosphoribosylformylglycinamidine synthase,6.3.5.3,glutamine,3.00E-05,3.81E-03
+asparagine synthase (glutamine-hydrolysing),6.3.5.4,glutamine,8.92E-04,3.81E-03
+carbamoyl-phosphate synthase (glutamine-hydrolysing),6.3.5.5,glutamine,2.03E-04,3.81E-03
+glutathione-disulfide reductase,1.8.1.7,glutathione oxidized,6.80E-05,2.37E-03
+glycerol-3-phosphate dehydrogenase,1.1.99.5,glycerol 3-phosphate,3.00E-04,4.90E-05
+glycerol-3-phosphate dehydrogenase [NAD(P)+],1.1.1.94,glycerol-3-phosphate,2.10E-04,4.90E-05
+glycerol-3-phosphate O-acyltransferase,2.3.1.15,glycerol-3-phosphate,3.91E-04,4.90E-05
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,2.7.8.5,glycerol-3-phosphate,3.20E-04,4.90E-05
+GMP reductase,1.7.1.7,GMP,9.60E-05,2.37E-05
+5'-nucleotidase,3.1.3.5,GMP,5.10E-04,2.37E-05
+GTP cyclohydrolase II,3.5.4.25,GTP,3.29E-04,4.87E-03
+guanylate cyclase,4.6.1.2,GTP,7.00E-05,4.87E-03
+adenylosuccinate synthase,6.3.4.4,GTP,2.00E-05,4.87E-03
+xanthine phosphoribosyltransferase,2.4.2.22,guanine,4.30E-06,1.88E-04
+hypoxanthine phosphoribosyltransferase,2.4.2.8,guanine,3.70E-05,1.88E-04
+guanine deaminase,3.5.4.3,guanine,1.50E-05,1.88E-04
+purine-nucleoside phosphorylase,2.4.2.1,guanosine,2.08E-05,1.62E-06
+inosine kinase,2.7.1.73,guanosine,6.10E-06,1.62E-06
+histidine-tRNA ligase,6.1.1.21,histidine,1.55E-05,6.76E-05
+methionine synthase,2.1.1.13,homocysteine,3.32E-05,3.70E-04
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase,2.1.1.14,homocysteine,6.90E-05,3.70E-04
+IMP dehydrogenase,1.1.1.205,IMP,1.31E-05,2.72E-04
+5'-nucleotidase,3.1.3.5,IMP,6.60E-04,2.72E-04
+adenylosuccinate synthase,6.3.4.4,IMP,2.66E-05,2.72E-04
+branched-chain-amino-acid transaminase,2.6.1.42,isoleucine,8.39E-04,3.03E-04
+Isoleucine-tRNA ligase,6.1.1.5,isoleucine,2.90E-05,3.03E-04
+phosphoglycerate dehydrogenase,1.1.1.95,ketoglutarate,6.08E-05,4.43E-04
+taurine dioxygenase,1.14.11.17,ketoglutarate,1.10E-05,4.43E-04
+oxoglutarate dehydrogenase (succinyl-transferring),1.2.4.2,ketoglutarate,1.00E-04,4.43E-04
+oxoglutarate dehydrogenase (succinyl-transferring),1.2.4.2,ketoglutarate,1.00E-04,4.43E-04
+glutamate synthase (NADPH),1.4.1.13,ketoglutarate,5.86E-06,4.43E-04
+glutamate dehydrogenase (NADP+),1.4.1.4,ketoglutarate,7.47E-04,4.43E-04
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",2.5.1.64,ketoglutarate,1.71E-05,4.43E-04
+aspartate transaminase,2.6.1.1,ketoglutarate,2.47E-04,4.43E-04
+acetylornithine transaminase,2.6.1.11,ketoglutarate,2.50E-03,4.43E-04
+4-aminobutyrate transaminase,2.6.1.19,ketoglutarate,1.07E-03,4.43E-04
+Branched-chain-amino-acid transaminase,2.6.1.42,Ketoglutarate,1.02E-03,4.43E-04
+Aromatic-amino-acid transaminase,2.6.1.57,Ketoglutarate,1.06E-03,4.43E-04
+Putrescine aminotransferase,2.6.1.82,Ketoglutarate,1.90E-02,4.43E-04
+Branched-chain-amino-acid transaminase,2.6.1.42,Leucine,1.41E-03,3.03E-04
+Leucine-tRNA ligase,6.1.1.4,Leucine,1.97E-05,3.03E-04
+Lysine decarboxylase,4.1.1.18,Lysine,1.73E-03,4.05E-04
+Lysine-tRNA ligase,6.1.1.6,Lysine,3.97E-06,4.05E-04
+Malate dehydrogenase,1.1.1.37,Malate,2.60E-03,1.68E-03
+Malate dehydrogenase (oxaloacetate-decarboxylating),1.1.1.38,Malate,5.04E-04,1.68E-03
+Fumarate hydratase,4.2.1.2,Malate,4.24E-04,1.68E-03
+Malate oxidase,1.1.3.3,Malate,1.20E-03,1.68E-03
+[Acyl-carrier-protein] S-malonyltransferase,2.3.1.39,Malonyl-CoA,6.89E-05,3.54E-05
+Methionine-tRNA ligase,6.1.1.10,Methionine,9.20E-05,1.45E-04
+Methionine adenosyltransferase,2.5.1.6,Methionine,1.10E-04,1.45E-04
+glucosamine-1-phosphate N-acetyltransferase,2.3.1.157,N-acetyl-D-glucosamine 1-phosphate,7.00E-05,8.19E-05
+UDP-N-acetylglucosamine diphosphorylase,2.7.7.23,N-acetyl-glucosamine 1-phosphate,7.00E-05,8.19E-05
+N-acetylglucosamine-6-phosphate deacetylase,3.5.1.25,N-acetyl-glucosamine 6-P,5.66E-04,8.19E-05
+L-threonine 3-dehydrogenase,1.1.1.103,NAD+,1.10E-04,5.35E-02
+Sorbitol-6-phosphate 2-dehydrogenase,1.1.1.140,NAD+,2.00E-04,5.35E-02
+Mannitol-1-phosphate 5-dehydrogenase,1.1.1.17,NAD+,2.00E-04,5.35E-02
+IMP dehydrogenase,1.1.1.205,NAD+,1.70E-04,5.35E-02
+UDP-glucose 6-dehydrogenase,1.1.1.22,NAD+,5.00E-05,5.35E-02
+Histidinol dehydrogenase,1.1.1.23,NAD+,5.70E-04,5.35E-02
+Shikimate dehydrogenase,1.1.1.25,NAD+,3.88E-05,5.35E-02
+Quinate/shikimate dehydrogenase,1.1.1.282,NAD+,1.50E-05,5.35E-02
+Malate dehydrogenase,1.1.1.37,NAD+,2.60E-04,5.35E-02
+Malate dehydrogenase (oxaloacetate-decarboxylating),1.1.1.38,NAD+,5.51E-05,5.35E-02
+Tagaturonate reductase,1.1.1.58,NAD+,8.99E-05,5.35E-02
+(R)-aminopropanol dehydrogenase,1.1.1.75,NAD+,1.41E-04,5.35E-02
+3-isopropylmalate dehydrogenase,1.1.1.85,NAD+,3.21E-04,5.35E-02
+Phosphoglycerate dehydrogenase,1.1.1.95,NAD+,7.90E-06,5.35E-02
+acetaldehyde dehydrogenase,1.2.1.10,NAD+,6.32E-05,5.35E-02
+glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.2.1.12,NAD+,4.50E-05,5.35E-02
+aminobutyraldehyde dehydrogenase,1.2.1.19,NAD+,4.46E-05,5.35E-02
+lactaldehyde dehydrogenase,1.2.1.22,NAD+,1.83E-04,5.35E-02
+phenylacetaldehyde dehydrogenase,1.2.1.39,NAD+,3.50E-05,5.35E-02
+erythrose-4-phosphate dehydrogenase,1.2.1.72,NAD+,2.43E-04,5.35E-02
+betaine-aldehyde dehydrogenase,1.2.1.8,NAD+,2.67E-05,5.35E-02
+prephenate dehydrogenase,1.3.1.12,NAD+,1.64E-04,5.35E-02
+dihydrolipoyl dehydrogenase,1.8.1.4,NAD+,4.79E-04,5.35E-02
+NAD+ kinase,2.7.1.23,NAD+,1.92E-03,5.35E-02
+nicotinamide-nucleotide adenylyltransferase,2.7.7.1,NAD+,3.70E-04,5.35E-02
+DNA ligase,6.5.1.2,NAD+,4.58E-07,5.35E-02
+sorbitol-6-phosphate 2-dehydrogenase,1.1.1.140,NADH,2.50E-05,4.73E-04
+malate dehydrogenase,1.1.1.37,NADH,6.10E-05,4.73E-04
+tagaturonate reductase,1.1.1.58,NADH,7.14E-05,4.73E-04
+ketol-acid reductoisomerase,1.1.1.86,NADH,2.07E-04,4.73E-04
+nitric oxide dioxygenase,1.14.12.17,NADH,3.92E-06,4.73E-04
+acetaldehyde dehydrogenase,1.2.1.10,NADH,5.00E-05,4.73E-04
+dihydrodipicolinate reductase,1.3.1.26,NADH,3.25E-06,4.73E-04
+enoyl-[acyl-carrier-protein] reductase (NADH),1.3.1.9,NADH,2.00E-05,4.73E-04
+pyrroline-5-carboxylate reductase,1.5.1.2,NADH,2.30E-04,4.73E-04
+methylenetetrahydrofolate reductase [NAD(P)H],1.5.1.20,NADH,1.84E-05,4.73E-04
+FMN reductase,1.5.1.29,NADH,4.43E-05,4.73E-04
+"6,7-dihydropteridine reductase",1.5.1.34,NADH,9.10E-05,4.73E-04
+NAD(P)+ transhydrogenase (AB-specific),1.6.1.2,NADH,1.70E-06,4.73E-04
+NAD(P)H dehydrogenase (quinone),1.6.5.2,NADH,1.32E-04,4.73E-04
+NADH dehydrogenase (quinone),1.6.99.5,NADH,5.51E-05,4.73E-04
+nitrite reductase [NAD(P)H],1.7.1.4,NADH,1.60E-05,4.73E-04
+glutathione-disulfide reductase,1.8.1.7,NADH,3.77E-04,4.73E-04
+serine 3-dehydrogenase,1.1.1.276,NADP+,5.40E-04,2.08E-06
+UDP-N-acetylmuramate dehydrogenase,1.1.1.158,NADPH,1.26E-05,1.21E-04
+2-dehydropantoate 2-reductase,1.1.1.169,NADPH,2.00E-05,1.21E-04
+5-amino-6-(5-phosphoribosylamino)uracil reductase,1.1.1.193,NADPH,5.00E-06,1.21E-04
+1-deoxy-D-xylulose-5-phosphate reductoisomerase,1.1.1.267,NADPH,1.08E-05,1.21E-04
+GDP-L-fucose synthase,1.1.1.271,NADPH,9.00E-06,1.21E-04
+homoserine dehydrogenase,1.1.1.3,NADPH,9.00E-05,1.21E-04
+ketol-acid reductoisomerase,1.1.1.86,NADPH,3.28E-06,1.21E-04
+glycerol-3-phosphate dehydrogenase [NAD(P)+],1.1.1.94,NADPH,1.00E-05,1.21E-04
+nitric oxide dioxygenase,1.14.12.17,NADPH,1.80E-04,1.21E-04
+glycolaldehyde dehydrogenase,1.2.1.21,NADPH,6.56E-05,1.21E-04
+glutamyl-tRNA reductase,1.2.1.70,NADPH,3.90E-05,1.21E-04
+dihydrodipicolinate reductase,1.3.1.26,NADPH,1.65E-05,1.21E-04
+"2,4-dienoyl-CoA reductase (NADPH)",1.3.1.34,NADPH,5.00E-05,1.21E-04
+trans-2-enoyl-CoA reductase (NADPH),1.3.1.38,NADPH,4.90E-06,1.21E-04
+glutamate synthase (NADPH),1.4.1.13,NADPH,4.12E-06,1.21E-04
+glutamate dehydrogenase (NADP+),1.4.1.4,NADPH,4.88E-05,1.21E-04
+pyrroline-5-carboxylate reductase,1.5.1.2,NADPH,3.00E-05,1.21E-04
+FMN reductase,1.5.1.29,NADPH,2.74E-05,1.21E-04
+dihydrofolate reductase,1.5.1.3,NADPH,3.13E-06,1.21E-04
+NAD(P)+ transhydrogenase (AB-specific),1.6.1.2,NADPH,2.15E-05,1.21E-04
+sulfite reductase (NADPH),1.8.1.2,NADPH,1.93E-05,1.21E-04
+glutathione-disulfide reductase,1.8.1.7,NADPH,2.00E-05,1.21E-04
+orotate phosphoribosyltransferase,2.4.2.10,OMP,3.10E-06,1.00E-04
+orotidine-5'-phosphate decarboxylase,4.1.1.23,OMP,2.45E-06,1.00E-04
+ornithine carbamoyltransferase,2.1.3.3,ornithine,8.50E-04,1.01E-05
+ornithine decarboxylase,4.1.1.17,ornithine,4.49E-03,1.01E-05
+orotate phosphoribosyltransferase,2.4.2.10,orotate,3.00E-05,5.15E-04
+3-phosphoshikimate 1-carboxyvinyltransferase,2.5.1.19,PEP,3.74E-05,1.84E-04
+3-deoxy-7-phosphoheptulonate synthase,2.5.1.54,PEP,3.21E-05,1.84E-04
+3-deoxy-8-phosphooctulonate synthase,2.5.1.55,PEP,5.56E-06,1.84E-04
+UDP-N-acetylglucosamine 1- carboxyvinyltransferase,2.5.1.7,PEP,1.28E-06,1.84E-04
+phosphoenolpyruvate carboxylase,4.1.1.31,PEP,6.00E-04,1.84E-04
+phosphoenolpyruvate carboxykinase,4.1.1.49,PEP,7.00E-05,1.84E-04
+phenylalanine-tRNA,6.1.1.20,phenylalanine,2.27E-05,1.82E-05
+aromatic-amino-acid transaminase,2.6.1.57,phenylpyruvate,5.60E-05,1.34E-04
+proline-tRNA ligase,6.1.1.15,proline,2.26E-04,3.85E-04
+2-methylcitrate synthase,2.3.3.5,propionyl-CoA,1.70E-05,5.32E-06
+orotate phosphoribosyltransferase,2.4.2.10,PRPP,3.80E-05,2.58E-04
+nicotinate phosphoribosyltransferase,2.4.2.11,PRPP,3.00E-05,2.58E-04
+amidophosphoribosyltransferase,2.4.2.14,PRPP,5.96E-05,2.58E-04
+anthranilate phosphoribosyltransferase,2.4.2.18,PRPP,1.00E-04,2.58E-04
+nicotinate-nucleotide diphosphorylase (carboxylating),2.4.2.19,PRPP,1.56E-05,2.58E-04
+xanthine phosphoribosyltransferase,2.4.2.22,PRPP,1.39E-04,2.58E-04
+adenine phosphoribosyltransferase,2.4.2.7,PRPP,3.54E-05,2.58E-04
+hypoxanthine phosphoribosyltransferase,2.4.2.8,PRPP,3.30E-05,2.58E-04
+uracil phosphoribosyltransferase,2.4.2.9,PRPP,1.48E-04,2.58E-04
+nicotinate-nucleotide diphosphorylase (carboxylating),2.4.2.19,quinolinate,6.40E-06,1.15E-05
+FMN reductase,1.5.1.29,riboflavin,1.79E-06,1.90E-05
+transketolase,2.2.1.1,ribose-5P,1.40E-03,1.32E-03
+ribose-phosphate diphosphokinase,2.7.6.1,ribose-5P,1.90E-04,1.32E-03
+ribose-5-phosphate isomerase,5.3.1.6,ribose-5P,2.25E-03,1.32E-03
+arabinose-5-phosphate isomerase,5.3.1.13,ribulose-5-P,3.18E-04,1.32E-03
+[formate-C-acetyltransferase]-activating enzyme,1.97.1.4,SAM,2.80E-06,1.84E-04
+methionine synthase,2.1.1.13,SAM,1.02E-06,1.84E-04
+cyclopropane-fatty-acyl-phospholipid synthase,2.1.1.79,SAM,8.98E-05,1.84E-04
+adenosylmethionine-8-amino-7-oxononanoate transaminase,2.6.1.62,SAM,5.14E-05,1.84E-04
+adenosylmethionine decarboxylase,4.1.1.50,SAM,7.75E-05,1.84E-04
+serine 3-dehydrogenase,1.1.1.276,serine,4.00E-02,6.80E-05
+glycine hydroxymethyltransferase,2.1.2.1,serine,2.12E-04,6.80E-05
+serine O-acetyltransferase,2.3.1.30,serine,1.10E-04,6.80E-05
+CDP-diacylglycerol-serine O-phosphatidyltransferase,2.7.8.8,serine,8.50E-05,6.80E-05
+tryptophan synthase,4.2.1.20,serine,3.40E-04,6.80E-05
+L-serine ammonia-lyase,4.3.1.17,serine,1.75E-02,6.80E-05
+Serine-tRNA ligase,6.1.1.11,serine,2.15E-05,6.80E-05
+shikimate kinase,2.7.1.71,shikimate,5.85E-04,1.41E-05
+succinate dehydrogenase (ubiquinone),1.3.5.1,succinate,7.07E-05,5.69E-04
+"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N- succinyltransferase",2.3.1.117,succinyl-CoA,1.50E-05,2.33E-04
+homoserine O-succinyltransferase,2.3.1.46,succinyl-CoA,1.70E-04,2.33E-04
+L-threonine 3-dehydrogenase,1.1.1.103,threonine,1.05E-03,1.79E-04
+threonine aldolase,4.1.2.5,threonine,2.85E-03,1.79E-04
+threonine ammonia-lyase,4.3.1.19,threonine,4.12E-02,1.79E-04
+threonine-tRNA ligase,6.1.1.3,threonine,1.34E-04,1.79E-04
+tryptophanase,4.1.99.1,tryptophan,3.81E-04,1.21E-05
+tryptophan-tRNA ligase,6.1.1.2,tryptophan,1.70E-05,1.21E-05
+tyrosine-tRNA ligase,6.1.1.1,tyrosine,6.40E-06,2.89E-05
+ribonucleoside-diphosphate reductase,1.17.4.1,UDP,2.20E-04,1.79E-03
+UDP-glucose 6-dehydrogenase,1.1.1.22,UDP-glucose,2.57E-03,2.50E-03
+"alpha,alpha-trehalose-phosphate synthase",2.4.1.15,UDP-glucose,6.62E-03,2.50E-03
+lipopolysaccharide glucosyltransferase I,2.4.1.58,UDP-glucose,1.90E-04,2.50E-03
+lipopolysaccharide glucosyltransferase II,2.4.1.73,UDP-glucose,9.00E-06,2.50E-03
+UDP-glucose-hexose-1-phosphate uridylyltransferase,2.7.7.12,UDP-glucose,2.00E-04,2.50E-03
+UDP-sugar diphosphatase,3.6.1.45,UDP-glucose,2.00E-05,2.50E-03
+UDP-glucose 4-epimerase,5.1.3.2,UDP-glucose,1.20E-03,2.50E-03
+acyl-[acyl-carrier-protein]-UDP-N- acetylglucosamine O-acyltransferase,2.3.1.129,UDP-N-ac-glucosamine,2.85E-04,9.24E-03
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,2.4.1.227,UDP-N-ac-glucosamine,6.25E-05,9.24E-03
+UDP-N-acetylglucosamine 1- carboxyvinyltransferase,2.5.1.7,UDP-N-ac-glucosamine,5.98E-05,9.24E-03
+UDP-N-acetylglucosamine 2-epimerase,5.1.3.14,UDP-N-ac-glucosamine,6.15E-04,9.24E-03
+uridine kinase,2.7.1.48,uridine,3.50E-04,2.09E-03
+glucosamine-1-phosphate N-acetyltransferase,2.3.1.157,UTP,1.00E-04,8.29E-03
+UDP-N-acetylglucosamine diphosphorylase,2.7.7.23,UTP,1.00E-04,8.29E-03
+UTP-glucose-1-phosphate uridylyltransferase,2.7.7.9,UTP,7.00E-05,8.29E-03
+CTP synthase,6.3.4.2,UTP,4.38E-05,8.29E-03
+branched-chain-amino-acid transaminase,2.6.1.42,valine,2.91E-03,4.02E-03
+valine-tRNA ligase,6.1.1.9,valine,2.57E-05,4.02E-03
