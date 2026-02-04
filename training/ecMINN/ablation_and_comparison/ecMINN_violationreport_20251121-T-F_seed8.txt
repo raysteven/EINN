@@ -1,0 +1,62 @@
+Global fraction of violations: 0.076
+
+========================================
+Violation Fraction per Enzyme (sorted):
+========================================
+
+R_usage_prot_P14407    0.448276
+R_usage_prot_P0A7Z0    0.448276
+R_usage_prot_P33570    0.344828
+R_usage_prot_P0AD61    0.344828
+R_usage_prot_P0A9N4    0.275862
+R_usage_prot_P0AC53    0.206897
+R_usage_prot_P62707    0.206897
+R_usage_prot_P05042    0.172414
+R_usage_prot_P21599    0.172414
+R_usage_prot_P27550    0.172414
+R_usage_prot_P31660    0.172414
+R_usage_prot_P0A955    0.172414
+R_usage_prot_P37330    0.172414
+R_usage_prot_P36938    0.137931
+R_usage_prot_P0A9M8    0.103448
+R_usage_prot_P06999    0.103448
+R_usage_prot_P0A993    0.068966
+R_usage_prot_P33232    0.068966
+R_usage_prot_P0A867    0.068966
+R_usage_prot_P00350    0.068966
+R_usage_prot_P0A9C3    0.068966
+R_usage_prot_P0A870    0.034483
+R_usage_prot_P0AG07    0.034483
+R_usage_prot_P23538    0.034483
+R_usage_prot_P27302    0.034483
+R_usage_prot_P0A858    0.034483
+R_usage_prot_P0A6T1    0.034483
+R_usage_prot_P22259    0.034483
+R_usage_prot_P08997    0.000000
+R_usage_prot_P0A9G6    0.000000
+R_EX_glc__D_e_i        0.000000
+R_usage_prot_P52643    0.000000
+R_usage_prot_P00363    0.000000
+R_usage_prot_P09373    0.000000
+R_usage_prot_P0A9Q7    0.000000
+R_usage_prot_P0A6A3    0.000000
+R_usage_prot_P0AA04    0.000000
+R_usage_prot_P0AC33    0.000000
+R_usage_prot_P0A9P0    0.000000
+R_usage_prot_P07014    0.000000
+R_usage_prot_P06959    0.000000
+R_usage_prot_P0AB71    0.000000
+R_usage_prot_P0A9B2    0.000000
+R_usage_prot_P0A799    0.000000
+R_usage_prot_P0A6P9    0.000000
+R_usage_prot_P52697    0.000000
+R_usage_prot_P0AFG8    0.000000
+R_EX_o2_e_i            0.000000
+R_usage_prot_P0AC41    0.000000
+R_usage_prot_P00864    0.000000
+R_usage_prot_P0ABH7    0.000000
+R_usage_prot_P36683    0.000000
+R_usage_prot_P0AFG6    0.000000
+R_usage_prot_P0A836    0.000000
+R_usage_prot_P0AGE9    0.000000
+R_usage_prot_P08839    0.000000
